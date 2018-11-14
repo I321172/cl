@@ -1,5 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/workspace.xml
+target/
+logs/
 ### Eclipse template
 
 .metadata
@@ -104,3 +106,6 @@ hs_err_pid*
 hs_err_pid*
 ### Example user template template
 ### Example user template
+
+#this is a jar to test dynamic class loader
+common-io*
